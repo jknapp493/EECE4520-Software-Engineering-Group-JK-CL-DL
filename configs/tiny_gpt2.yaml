@@ -1,0 +1,12 @@
+vocab_size: 32000
+block_size: 128
+n_layer: 6
+n_head: 8
+n_embd: 512
+dropout: 0.1
+lr: 0.0003
+weight_decay: 0.1
+warmup_steps: 500
+train_batch_size: 8
+val_batch_size: 8
+max_steps: 10000

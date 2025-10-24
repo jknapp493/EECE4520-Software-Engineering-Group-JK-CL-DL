@@ -1,0 +1,8 @@
+numpy
+tqdm
+matplotlib
+pyyaml
+safetensors
+datasets
+tokenizers
+accelerate
