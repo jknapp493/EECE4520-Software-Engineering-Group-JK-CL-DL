@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: gptmini
+Version: 0.1.0
+Summary: Small GPT-2-like training with BPE tokenizer
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# EECE4520-Software-Engineering-Group-JK-CL-DL
+Github Repo Housing Files Pertaining to EECE4520 Final Project - Rebuilding GPT-2

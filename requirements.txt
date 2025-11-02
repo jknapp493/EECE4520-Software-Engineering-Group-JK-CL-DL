@@ -1,0 +1,8 @@
+torch
+transformers
+tokenizers
+datasets
+nltk
+tqdm
+matplotlib
+numpy
